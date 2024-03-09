@@ -20,3 +20,8 @@ This landing page has been developed using the following technologies:
 - **Interactive Elements**: JavaScript is used to incorporate interactive elements, such as sliders, animations, and dynamic content, enhancing user engagement.
 - **Contact Form**: Visitors can easily reach out to us through the contact form provided on the landing page, facilitating communication and inquiries.
 
+## How to Use
+
+To access the landing page, simply navigate to the URL provided.
+- https://aneq.netlify.app/
+
